@@ -270,9 +270,9 @@ a.tm-text-primary:hover { color:#666666; }
     margin-left: -1px;
 }
 
-p, .tm-text-gray { color: #999; }
-.tm-text-gray-light { color: #CCC; }
-.tm-text-gray-dark { color: #666; }
+p, .tm-text-gray { color: #5b5b5b; }
+.tm-text-gray-light { color: #909090; }
+.tm-text-gray-dark { color: #161616; }
 
 .tm-video-item {
     position: relative;
